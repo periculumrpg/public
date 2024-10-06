@@ -1,8 +1,8 @@
 var script = document.createElement('script');
 script.type = "application/ld+json";
 script.text = JSON.stringify({
-  "@context": "https://schema.org",
-  "@type": "VideoGame",
+  "@context": "https:\/\/schema.org",
+  "@type": "Game",
   "name": "Periculum RPG",
   "description": "Periculum RPG é um role-playing game inspirado no mundo mágico pós-guerra de Harry Potter, cheio de aventuras e mistérios.",
   "genre": "RPG",
